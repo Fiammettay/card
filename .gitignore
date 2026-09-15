@@ -1,0 +1,37 @@
+# Unity 生成的本地缓存和临时文件
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Visual Studio / Rider 等 IDE 自动生成的文件
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity 崩溃报告和临时文件
+sysinfo.txt
+crashlytics-build.properties
+
+# 构建产物
+*.apk
+*.aab
+*.unitypackage
+*.app
